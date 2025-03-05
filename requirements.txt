@@ -1,0 +1,14 @@
+Django
+djangorestframework
+gunicorn
+psycopg2-binary
+Pillow
+django-environ
+django-cors-headers
+ldap3
+whitenoise
+pandas
+django-q
+channels
+daphne
+openpyxl
